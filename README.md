@@ -6,8 +6,8 @@
         The purpose of this analysis was to explore and implement neural networks using TensorFlow in Python. Neural networks is an advanced form of Machine Learning that can recognize patterns and features in the dataset. Neural networks are modeled after the human brain and contain layers of neurons that can perform individual computations. A great example of a Deep Learning Neural Network would be image recognition. The neural network will compute, connect, weigh and return an encoded categorical result to identify if the image represents a "dog" or a "cat" or as shown in the image below, George Washington.
         Throughout this module, we learned:
 
--How to build a basic neural network
--Preprocess/prepare the datasets
+*How to build a basic neural network
+*Preprocess/prepare the datasets
 -Create a training and testing set
 -Measure model accuracy
 -Add additional neurons and hidden layers to optimize the model
